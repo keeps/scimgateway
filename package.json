@@ -48,7 +48,7 @@
         "mongodb": "^4.0.1",
         "node-machine-id": "1.1.9",
         "nodemailer": "^6.5.0",
-        "passport": "^0.4.1",
+        "passport": "^0.6.0",
         "passport-azure-ad": "^4.3.0",
         "scimgateway": "^3.2.8",
         "soap": "^0.36.0",
